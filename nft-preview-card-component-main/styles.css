@@ -1,8 +1,3 @@
-@font-face {
-    font-family: 'MyOverpass';
-    src: url('https://fonts.google.com/specimen/Overpass') format('truetype')
-}
-
 .outfit-300 {
     font-family: 'Outfit', sans-serif;
     font-weight: 300;
