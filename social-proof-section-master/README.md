@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social Proof Section](https://sophia-banou.github.io/frontend-mentor/social-proof-section/)
+- Solution URL: [Social Proof Section](https://sophia-banou.github.io/frontend-mentor/social-proof-section-master/)
 
 ## My process
 
