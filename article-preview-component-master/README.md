@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [3-Column Preview Card](https://sophia-banou.github.io/frontend-mentor/3-column-preview-card-component-main/)
+- Solution URL: [Article Preview Component](https://sophia-banou.github.io/frontend-mentor/article-preview-component-master/)
 
 ## My process
 

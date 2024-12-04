@@ -8,6 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -25,6 +26,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [3-Column Preview Card Component](https://sophia-banou.github.io/frontend-mentor/3-column-preview-card-component-main/)
 
 ## My process
 
