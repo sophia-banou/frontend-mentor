@@ -13,6 +13,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 a {
@@ -91,8 +92,12 @@ p {
 }
 
 body {
-    padding: 10rem 10rem;
     position: relative;
+}
+
+.inner {
+    padding: 10rem 10rem;
+    height: max-content;
 }
 
 
@@ -196,8 +201,8 @@ body {
     position: absolute;
     height: auto;
     width: 100%;
-    top: 67px;
-    right: -356px;
+    bottom: -20%;
+    right: -13%;
     z-index: -100;
 }
 
@@ -205,8 +210,8 @@ body {
     position: absolute;
     height: auto;
     width: 100%;
-    top: -161px;
-    left: -670px;
+    top: -10%;
+    left: -50%;
     z-index: -100;
     transform: rotate(180deg);
 }
@@ -223,7 +228,7 @@ body {
 
 
 @media only screen and (max-width: 1024px) {
-    body {
+    .inner {
         padding: 9rem 7rem;
     }
 
@@ -236,19 +241,10 @@ body {
         gap: 1.2rem;
     }
 
-    .pattern {
-        top: 66px;
-        right: -390px;
-    }
-
-    .pattern-reverse {
-        top: -29px;
-        left: -542px;
-    }
 }
 
 @media only screen and (max-width: 768px) {
-    body {
+    .inner {
         padding: 5rem 4rem;
     }
 
@@ -270,17 +266,6 @@ body {
         gap: 1.1rem;
     }
 
-    .pattern {
-        top: auto;
-        right: -390px;
-        bottom: 0px
-    }
-
-    .pattern-reverse {
-        top: -159px;
-        left: 100px;
-    }
-
     .reviews {
         grid-template-rows: repeat(3, 1fr);
         grid-template-columns: 1fr;
@@ -289,4 +274,24 @@ body {
     .reviews .item {
         margin: 0px !important;
     }
+}
+
+@media only screen and (max-width: 375px) {
+    .inner {
+        padding: 5rem 1.5rem;
+    }
+
+    .top-div .text-div .head-1 {
+        font-size: 2.5rem;
+        line-height: 2rem;
+    }
+
+    .top-div .ratings-div .item {
+        gap: 0.8rem;
+    }
+
+    .reviews {
+        gap: 1rem;
+    }
+
 }
