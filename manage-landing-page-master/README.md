@@ -6,6 +6,8 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -22,6 +24,14 @@ Users should be able to:
 - Receive an error message when the newsletter sign up `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+### Screenshot
+
+![](./images/screenshot.jpg)
+
+### Links
+
+- Solution URL: [Manage Landing Page](https://sophia-banou.github.io/frontend-mentor/manage-landing-page-master/)
 
 ## My process
 
