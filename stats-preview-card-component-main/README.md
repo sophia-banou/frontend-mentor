@@ -6,6 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -22,6 +23,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Stats Preview Card](https://sophia-banou.github.io/frontend-mentor/stats-preview-card-component-main/)
 
 ## My process
 

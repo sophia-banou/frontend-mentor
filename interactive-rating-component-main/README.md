@@ -1,17 +1,16 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -28,6 +27,10 @@ Users should be able to:
 
 ![](./screenshot1.jpg)
 ![](./screenshot2.jpg)
+
+### Links
+
+- Solution URL: [Interactive Rating Component](https://sophia-banou.github.io/frontend-mentor/interactive-rating-component-main/)
 
 ## My process
 

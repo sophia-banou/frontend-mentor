@@ -7,6 +7,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -24,6 +25,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot.jpg)
+
+### Links
+
+- Solution URL: [3-Column Preview Card](https://sophia-banou.github.io/frontend-mentor/3-column-preview-card-component-main/)
 
 ## My process
 

@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sophia-banou.github.io/frontend-mentor/social-links-profile-main/)
+- Solution URL: [Social Links Profile](https://sophia-banou.github.io/frontend-mentor/social-links-profile-main/)
 
 ## My process
 

@@ -7,10 +7,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
@@ -25,6 +25,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+### Links
+
+- Solution URL: [Product Preview Component](https://sophia-banou.github.io/frontend-mentor/product-preview-card-component-main/)
+
 ## My process
 
 ### Built with
@@ -36,4 +40,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [sophia-banou](https://www.frontendmentor.io/profile/sophia-banou)
-
