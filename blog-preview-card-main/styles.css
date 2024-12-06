@@ -170,6 +170,7 @@ p {
     font-family: 'Figtree';
     font-weight: 600;
     color: var(--gray-950);
+    background-color: var(--yellow);
 }
 
 /* hover */
