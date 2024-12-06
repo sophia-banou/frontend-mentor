@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sophia-banou.github.io/frontend-mentor/blog-preview-card-main/)
+- Solution URL: [Blog Preview Card](https://sophia-banou.github.io/frontend-mentor/blog-preview-card-main/)
 
 ## My process
 
