@@ -390,6 +390,20 @@ header .hamburger-div {
     display: none;
 }
 
+@media only screen and (max-width: 1440px) {
+    .hero .image-div .bg-image {
+        right: -46%;
+        top: -48%;
+    }
+
+    .hero .image-div .mockups-image {
+        right: -10%;
+        top: -19%;
+        bottom: 0;
+        width: 900px;
+    }
+}
+
 @media only screen and (max-width: 375px) {
 
     header {
