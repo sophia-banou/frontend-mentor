@@ -1,0 +1,127 @@
+:root {
+    --white: hsl(0, 0%, 100%);
+    --slate-300: hsl(212, 45%, 89%);
+    --slate-500: hsl(216, 15%, 48%);
+    --slate-900: hsl(218, 44%, 22%);
+
+    --sp-500: 40px;
+    --sp-300: 24px;
+    --sp-200: 16px;
+}
+
+
+html {
+    font-size: 62.5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    transition: 0.2s linear;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+    -webkit-font-smoothing: antialised;
+    scroll-behavior: smooth;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+/* CLASSES */
+.page-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: var(--slate-300);
+}
+
+.box {
+    max-width: 320px;
+    height: auto;
+    background-color: var(--white);
+    border-radius: 20px;
+    overflow: hidden;
+    padding: var(--sp-200) var(--sp-200) var(--sp-500) var(--sp-200);
+    position: relative;
+    box-shadow: 0px 25px 25px 0px hsla(0, 0%, 0%, 4.77%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: var(--sp-300)
+}
+
+.box__image img{
+    width:100%;
+    height:100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.box__text {
+    padding: 0px var(--sp-200);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: var(--sp-200);
+    text-align: center;
+
+}
+
+.box__text .title {
+    color: var(--slate-900);
+    font-family: "Outfit", sans-serif;
+    font-weight: bold;
+    font-size: 2.2rem;
+    line-height: 120%;
+    letter-spacing: 0px;
+}
+
+.box__text .text { 
+    color: var(--slate-500);
+    font-family: "Outfit", sans-serif;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+}
+
+.attribution {
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Outfit';
+    font-weight: normal;
+    color: var(--slate-900);
+    background-color: var(--slate-300);
+}
